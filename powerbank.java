@@ -20,12 +20,12 @@ fastchargingsupport=true;
 public static void main(String[] args) {
 
 
-System.out.println(powerbankbrand);
-System.out.println(powerbankcolour);
-System.out.println(powerbankcapacity);
-System.out.println(powerbankprice);
-System.out.println(powerbankports);
-System.out.println(fastchargingsupport);
+System.out.println(powerbank.powerbankbrand);
+System.out.println(powerbank.powerbankcolour);
+System.out.println(powerbank.powerbankcapacity);
+System.out.println(powerbank.powerbankprice);
+System.out.println(powerbank.powerbankports);
+System.out.println(powerbank.fastchargingsupport);
 
 
 }
